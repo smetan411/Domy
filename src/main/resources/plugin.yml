@@ -1,0 +1,24 @@
+name: Domy
+version: '${project.version}'
+main: domy.MainDomy
+api-version: 1.18
+
+commands:
+  +zarovnejTeren:
+  +zarovnejTerenNahoru:
+  +vymazToKolem:
+  +zakladovaDeska:
+  +zedSeverJih:
+  +zedVychodZapad:
+  +schodisteJih:
+  +schodisteSever:
+  +schodisteVychod:
+  +schodisteZapad:
+  +domek:
+  +vylepsenyDomek:
+  +panelak:
+  +radoveDomky:
+  +dlouhyPanelak:
+  +vesnice:
+  +velkaVesnice:
+  +manhattan:
